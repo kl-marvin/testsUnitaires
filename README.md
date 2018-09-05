@@ -31,4 +31,4 @@ Then run the following commands in your favorite command line tool :
 `$ bin/console doctrine:schema:create`
 
 
-test travis
+test travis x2
